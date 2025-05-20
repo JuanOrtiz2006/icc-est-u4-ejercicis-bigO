@@ -8,7 +8,7 @@ public class RespuestasComplejidad {
     public static String factorial = "O(1^n)"; // 4
     public static String fibonacci = "O(2^n)"; // 5
     public static String bubbleSort = "O(n^2)"; // 6
-    public static String quickSort = "(O(3^n))"; // 7
+    public static String quickSort = "(O(n log n))"; // 7
     public static String sumaMatriz = "O(n^2)"; // 8
     public static String encontrarMaximo = "O(n)"; // 9
     public static String potencia = "O(1^n)"; // 10
